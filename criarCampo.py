@@ -1,5 +1,5 @@
 layer = iface.activeLayer()
-exp = 'exporessão'
+exp = 'expressão'
 
 
 def criarCampo (nomeCampo, tipoCampo, comprimento, precisao):
