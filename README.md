@@ -1,4 +1,4 @@
-# Criar um campos com PYQGIS
+# Criar campos na tabela com PYQGIS
 ## Como criar um campo geométrico ou personalizado na tabela de atributos com PYQGIS
 
 
