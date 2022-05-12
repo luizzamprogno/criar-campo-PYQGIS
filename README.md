@@ -10,7 +10,7 @@ OBS: se for usar uma expressão personalizada, lembre-se de utilizar as barras-c
 3 - Na linha 23 do script: 
 - como primeiro parâmetro da função, coloque entre aspas simples o nome do campo(lembrando de respeitar as limitações de arquivos .shp, sem espações, caracteres especiais e no máximo 10 caracteres;
 - Como segundo parâmetro da função, coloque o tipo do campo, QVariant.Double para números decimais, QVariant.Integer para inteiros e QVariant.String para textos;
-- O terceiro e quarto parâmetro da função dizem respeito, respectivamente, ao comprimento e precição do campo.
+- O terceiro e quarto parâmetro da função dizem respeito, respectivamente, ao comprimento e precisão do campo.
 
 ### Video aula
 [![video aula](https://img.youtube.com/vi/WEckVvWdqVg/maxresdefault.jpg)](https://youtu.be/WEckVvWdqVg)
